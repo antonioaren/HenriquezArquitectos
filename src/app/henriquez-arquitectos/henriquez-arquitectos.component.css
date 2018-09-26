@@ -1,0 +1,19 @@
+.language--align {
+    display: flex;
+    justify-content: space-between;
+}
+
+.align--nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav--link_ownStyle {
+    text-decoration: none;
+    color: black;
+}
+
+.nav--link_ownStyle:hover {
+    text-decoration: underline;
+}
